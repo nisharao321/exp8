@@ -33,7 +33,7 @@
 11. Further, connect the rubber tube to pitot tubes velocity head and note down the reading.<br>
 <img src="images/k11.png"><br>
 
-12. Click on the NEXT button at the bottom right corner to proceed to the next step. <br>
+12. Click on the OK button to proceed further. <br>
 <img src="images/k12.png"><br>
 
 13. Click on the NEXT button at the bottom right corner to proceed to the next step.<br>
@@ -45,16 +45,16 @@
 15. Click on the NEXT button at the bottom right corner to proceed to the next step.<br>
 <img src="images/k15.png"><br>
 
-16. Plot graph of Axial load Vs Penetration for 300 rpm.<br>
+16. Plot graph of Axial load Vs Penetration for 300rpm.<br>
 <img src="images/k16.png"><br>
 
 17. Observe the nature of graph and click on the NEXT button to proceed to the next step.<br>
 <img src="images/k17.png"><br>
 
-18. Repeat the same procedure for the speed of 400 rpm.<br>
+18. Repeat the same procedure for the speed of 400rpm.<br>
 <img src="images/k18.png"><br>
 
-19. We will get graph for 400 rpm similar to 300 rpm and click on the NEXT button to proceed to the next step.<br>
+19. We will get graph for 400rpm similar to 300rpm and click on the NEXT button to proceed to the next step.<br>
 <img src="images/k19.png"><br>
 
 20.Click on refer graph to see graph at 300 and 400 rpm. Results and conclusion are given below<br>
