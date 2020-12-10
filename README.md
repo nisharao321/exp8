@@ -5,7 +5,7 @@
 <b>Discipline | <b>Engineering
 :--|:--|
 <b> Lab | <b>  Mining Environmental Engineering Lab
-<b> Experiment| <b> 4.Study of characteristics curve of backward bladed axial fan
+<b> Experiment| <b> 4.Study of characteristics curve of backward bladed centrifugal fan
 
 <h5> About the Lab (Objective) : </h5>
 
@@ -31,7 +31,7 @@ Following are the courses in which one can come across the theory connected to t
 :--|:--|
 <b> Institute</b>  | <b> National Institute of Technology Karnataka Surathkal</b>
 <b> Email id</b> |<b> pruthviu@nitk.edu.in</b>
-<b> Department | Applied Mechanics and Hydraulics
+<b> Department | Water Resources & Ocean Engineering
 
 #### Mentor Details
 
@@ -47,5 +47,5 @@ Sr No | Name | Faculty or Student | Department| Institute | Email id
 3 | Rishitesh Prajapati | Student | Mining Engineering| National Institute of Technology Karnataka, Surathkal |rishi19420000@gmail.com
 4 | Hareesh Kumar Biradar | Student | Mining Engineering | National Institute of Technology Karnataka, Surathkal |biradarhareesh@gmail.com
 5 | Nisha | Staff | | |raonisha46@gmail.com
-6 | Aishwarya Hegde | Student | Applied Mechanics and Hydraulics | National Institute of Technology Karnataka, Surathkal |aishwaryahegde29@gmail.com
-7 | Aishwarya Shetty | Student | Applied Mechanics and Hydraulics | National Institute of Technology Karnataka, Surathkal |aishwarya.shetty1995@gmail.com
+6 | Aishwarya Hegde | Student | Water Resources & Ocean Engineering | National Institute of Technology Karnataka, Surathkal |aishwaryahegde29@gmail.com
+7 | Aishwarya Shetty | Student | Water Resources & Ocean Engineering | National Institute of Technology Karnataka, Surathkal |aishwarya.shetty1995@gmail.com
