@@ -57,6 +57,6 @@
 19. We will get graph for 400rpm similar to 300rpm and click on the NEXT button to proceed to the next step.<br>
 <img src="images/k19.png"><br>
 
-20.Click on refer graph to see graph at 300 and 400 rpm. Results and conclusion are given below<br>
+20.Click on refer graph to see graph at 300 and 400 rpm. Results and conclusion are given below.<br>
 <img src="images/k20.png"><br>
 
