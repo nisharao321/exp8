@@ -44,7 +44,7 @@ The point of intersection of the mine characteristic with the pressure-volume cu
 <center>
   <img src="images/graph1.png" height="250" width="425">
 </center>
-<center>Characteristics curve of centrifugal fan</center><br>
+<center>Characteristics curve of centrifugal fan.</center><br>
 <center>Source: (<a href="https://www.engineeringtoolbox.com/fan-types-d_142.html">https://www.engineeringtoolbox.com/fan-types-d_142.html
 </a>)
 </center><br><br>
@@ -52,7 +52,7 @@ The point of intersection of the mine characteristic with the pressure-volume cu
 <center>
   <img src="images/graph2.png" height="250" width="425">
 </center>
-<center>Characteristics curve representing operating point</center><br>
+<center>Characteristics curve representing operating point.</center><br>
 <center>Source: (<a href="https://www.axair-fans.co.uk/all-technical-information/duty-point-operating-point/">https://www.axair-fans.co.uk/all-technical-information/duty-point-operating-point/ 
 </a>)
 </center><br><br>
