@@ -45,7 +45,7 @@
 15. Click on the NEXT button at the bottom right corner to proceed to the next step.<br>
 <img src="images/k15.png"><br>
 
-16. Plot graph of Axial load Vs Penetration for 300rpm.<br>
+16. Plot graph of Axial load v/s Penetration for 300rpm.<br>
 <img src="images/k16.png"><br>
 
 17. Observe the nature of graph and click on the NEXT button to proceed to the next step.<br>
@@ -57,6 +57,6 @@
 19. We will get graph for 400rpm similar to 300rpm and click on the NEXT button to proceed to the next step.<br>
 <img src="images/k19.png"><br>
 
-20.Click on refer graph to see graph at 300 and 400 rpm. Results and conclusion are given below.<br>
+20. Click on refer graph to see graph at 300 and 400 rpm. Results and conclusion are given below.<br>
 <img src="images/k20.png"><br>
 
