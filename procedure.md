@@ -24,16 +24,16 @@
 8. Place the cardboard in front of the ventilation duct. And click on the hand to connect the rubber tube of manometer with pitot tube at point 1.<br>
 <img src="images/k8.png"><br>
 
-9. Click on the hand to connect the rubber tube of manometer with pitot tube at point 1.<br>
+9. Click on the mover to note down the static head reading from the manometer.<br>
 <img src="images/k9.png"><br>
 
-10. Click on the mover to note down the static head reading from the manometer.<br>
+10. Now connect the rubber tube to pitot tubes total head and note down the reading.<br>
 <img src="images/k10.png"><br>
 
-11. Now connect the rubber tube to pitot tubes total head and note down the reading.<br>
+11. Further, connect the rubber tube to pitot tubes velocity head and note down the reading.<br>
 <img src="images/k11.png"><br>
 
-12. Further, connect the rubber tube to pitot tubes velocity head and note down the reading. <br>
+12. Click on the NEXT button at the bottom right corner to proceed to the next step. <br>
 <img src="images/k12.png"><br>
 
 13. Click on the NEXT button at the bottom right corner to proceed to the next step.<br>
