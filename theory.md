@@ -20,7 +20,7 @@
 
 <ol style="text-indent:50px;text-align:justify;list-style-position: inside;">
 <li><p style="text-indent:50px;text-align:justify">The pressure characteristics of the pressure-volume curve of a backward bladed fan falls fairly steadily from a maximum pressure at low volume to zero at volume, while that of a forward bladed fan remains relatively constant for a wide range of volume but falls steeply as the maximum volume is reached.</p>
-<p style="text-indent:50px;text-align:justify">In case of axial flow fan maximum water gauge is developed at zero volume and not at the low volume as in the other two cases.</p>
+<p style="text-indent:50px;text-align:justify">In case of centrifugal flow fan maximum water gauge is developed at zero volume and not at the low volume as in the other two cases.</p>
 </li>
 <li><p style="text-indent:50px;text-align:justify">The power characteristics or the B.H.P curve of a backward bladed fan is almost a rising straight line passing above the origin, tending to flatten and then to fall with increasing volume, thereby showing that power increase with increased volume, but once the maximum volume is reached, power becomes almost constant and then decreases. Thus it indicates the non-overloading feature of the backward bladed fan.</p>
 
@@ -32,7 +32,7 @@ Power characteristics of a forward bladed fan rise steadily at low volume but st
 <li><p style="text-indent:50px;text-align:justify">The efficiency characteristics of radial flow fan of both forward and backward bladed time is asymmetrical curve rising steeply from zero at zero volume to a broad topped maximum and falling again steeply to zero at maximum volume.
 </p>
 <p style="text-indent:50px;text-align:justify">
-Efficiency characteristics of axial flow fan differ valuation from the other two types. It shows the general rise in efficiency from zero to a sharp peak, followed by a rapid drop. It indicates that this fan is suitable only in mine works whose resistance varies within narrow limits.</p>
+Efficiency characteristics of centrifugal flow fan differ valuation from the other two types. It shows the general rise in efficiency from zero to a sharp peak, followed by a rapid drop. It indicates that this fan is suitable only in mine works whose resistance varies within narrow limits.</p>
 
 <p style="text-indent:50px;text-align:justify">
 A mine characteristic is a curve showing the pressure quantity relationship of the mine, that is, it indicates what quantity of air will pass through the mine when the given pressure is applied across the mine opening, or vice versa. It is the curve of equation P=RQ<sup>2</sup>, where R is the resistance of the mine. Such a curve for roadways is called the characteristic curve of that roadway.</p>
@@ -44,7 +44,7 @@ The point of intersection of the mine characteristic with the pressure-volume cu
 <center>
   <img src="images/graph1.png" height="250" width="425">
 </center>
-<center>Characteristics curve of axial fan</center><br>
+<center>Characteristics curve of centrifugal fan</center><br>
 <center>Source: (<a href="https://www.engineeringtoolbox.com/fan-types-d_142.html">https://www.engineeringtoolbox.com/fan-types-d_142.html
 </a>)
 </center><br><br>
