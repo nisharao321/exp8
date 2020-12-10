@@ -3,9 +3,9 @@
 
 <br>
 Q 1. Which of the following refer to fan characteristics curve?<br>
-a. Pressure Vs Volume<br>
-b. Power Vs Volume<br>
-c. Efficiency Vs Volume<br>
+a. Pressure v/s Volume<br>
+b. Power v/s Volume<br>
+c. Efficiency v/s Volume<br>
 <b>d. All of above</b><br><br>
 
 Q 2. In power characteristics curve fan, power refer to__________<br>
