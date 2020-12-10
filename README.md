@@ -9,7 +9,7 @@
 
 <h5> About the Lab (Objective) : </h5>
 
-The main objective of this laboratory is to give the student hands-on experience with ventilation instrumentation and to support instruction in ventilation theory in mine environment.
+The main objective of this laboratory is to provide an hands-on experience with ventilation instrumentation and to support instruction in ventilation theory in mine environment.
 
 <h5> About the Experiment : </h5>
 
